@@ -1,0 +1,427 @@
+[
+  {
+    "count": 1,
+    "color": "SlateGray",
+    "title": "Reputation for Failure",
+    "icon": "expand",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Persistent",
+      "fill | 2",
+      "text | This person does not inspire confidence in those around them. The Commodore reduces their Commodore Command Radius by half!",
+      "fill | 2",
+      "section | Command Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>1</span>",
+      ""
+    ],
+    "tags": [
+      "command",
+      "persistent"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "SlateGray",
+    "title": "Perfect Plotting",
+    "icon": "expand",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "rule",
+      "description | Kingdom of Britannia | Kingdom of Britannia Commodores may always take the Perfect Plotting Command Trait instead of making a roll on the Command Trait table.",
+      "rule",
+      "fill | 2",
+      "text | This Ability may be activated during the Command Segment of a non-Disordered Squadron's Activation provided a member of the Squadron is within Command Range of the Commodore’s Model. The Squadron does not require a Spotter model to have Line of Sight to their intended target.",
+      "fill | 2",
+      "section | Command Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>2</span>"
+    ],
+    "tags": [
+      "command",
+      "once per game turn",
+      "kingdom of britannia"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "SlateGray",
+    "title": "Spy Master",
+    "icon": "expand",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Persistent",
+      "rule",
+      "description | Covenant of Antarctica | Covenant of Antarctica Commodores may always take the Spy Master Command Trait instead of making a roll on the Command Trait table.",
+      "rule",
+      "fill | 2",
+      "text | This Ability may be activated before any cards can be played in the TACs Segment of the FIRST Game Turn. The Commodore may draw an additional TAC from their Deck at random and add it in their TAC Hand.",
+      "fill | 2",
+      "section | Command Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>3</span>"
+    ],
+    "tags": [
+      "command",
+      "persistent"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "SlateGray",
+    "title": "Coordinated Attack",
+    "icon": "expand",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Persistent",
+      "rule",
+      "description | Empire of the Blazing Sun | Empire of the Blazing Sun Commodores may always take the Coordinated Attack Command Trait instead of making a roll on the Command Trait table.",
+      "rule",
+      "fill | 2",
+      "text | This Ability may be activated during the Command and Control Step of the Command Segment in a Squadron’s Activation, provided a member of the Squadron is within Command Radius of the Commodore’s Model. The Squadron may ignore the restrictions for being Disordered when determining Firing Options with Targeted Gunnery or Boarding Actions.",
+      "fill | 2",
+      "section | Command Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>4</span>"
+    ],
+    "tags": [
+      "command",
+      "persistent"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "SlateGray",
+    "title": "Not One Step Back",
+    "icon": "expand",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Russian Coalition | Russian Coalition Commodores may always take the Not One Step Back Aggressive Trait instead of making a roll on the Command Trait table.",
+      "fill | 2",
+      "text | The Commodore may extol a Squadron within their Command Radius to automatically pass any a Disorder Tests it is required to take for the remainder of the Game Turn. Activate this ability before rolling the Disorder Test.",
+      "fill | 2",
+      "section | Command Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>5</span>"
+    ],
+    "tags": [
+      "command",
+      "once per game turn"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "SlateGray",
+    "title": "With Me!",
+    "icon": "expand",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "fill | 2",
+      "text | The Commodore may activate a ‘ready’ Squadron within their Command Radius directly after they have completed the Squadron activation of their Flagship.",
+      "fill | 2",
+      "section | Command Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>6</span>"
+    ],
+    "tags": [
+      "command",
+      "once per game"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Attack With The Sun [...]",
+    "icon": "reticule",
+    "icon_back": "",
+    "contents": [
+      "property | Attack With The Sun At Their Backs! | ",
+      "subtitle | Persistent",
+      "fill | 2",
+      "text | All Ranged Attacks performed by the Force during the FIRST and SECOND Game Turns at Range Band 4 suffer an additional -1 ‘To Hit’ modifer!",
+      "fill | 2",
+      "section | Aggressive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>1</span>"
+    ],
+    "tags": [
+      "aggressive",
+      "persistent"
+    ],
+    "title_size": "12"
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Close Range Precision",
+    "icon": "reticule",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "fill | 2",
+      "text | Re-roll one Critical Effect Result against an enemy Model targeted by the Commodore’s Model within Range Band 1.",
+      "fill | 2",
+      "section | Aggressive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>2</span>"
+    ],
+    "tags": [
+      "aggressive",
+      "once per game turn"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Send In My Best",
+    "icon": "reticule",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Prussian Empire | Prussian Empire Commodores may always take the Send In My Best Aggressive Trait instead of making a roll on the Command Trait table.</span>",
+      "fill | 2",
+      "text | This Ability may be activated during the Command Segment of a Commodore's Activation. ",
+      "text | For the remainder of the Activation, the Commodore's Model gains the Terror Tactics (4) MAR.",
+      "fill | 2",
+      "section | Aggressive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>3</span>"
+    ],
+    "tags": [
+      "aggressive",
+      "once per game turn"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Strike Hard and Fast!",
+    "icon": "reticule",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "fill | 2",
+      "text | This Ability may be activated during the Command and Control Step of the Commodore's Activation. ",
+      "text | All Models in the Force gain +2” Movement (Mv) for the duration of the Game Turn. This additional movement must be added to a model’s Minimum Move where appropriate.",
+      "fill | 2",
+      "section | Aggressive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>4</span>"
+    ],
+    "tags": [
+      "aggressive",
+      "once per game"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Dead-Eye Gunnery",
+    "icon": "reticule",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "rule",
+      "description | Federated States of America | <span style='font-size: .8em'>Federated States of America Commodores may always take the Deadeye Gunnery Aggressive Trait instead of making a roll on the Command Trait table.</span>",
+      "rule",
+      "fill | 2",
+      "text | <span style='font-size: .8em'>This Ability may be activated during Declaring Attacks Step of the Firing Segment of a non-Disordered Squadron's Activation provided a member of the fring Squadron is within Command Radius of the Commodore’s Model. ALL Attacks executed with Primary Gunnery from the Squadron that cause a Critical Hit cause the target to lose an additional D3-1 Hull Points [HP].</span>",
+      "fill | 2",
+      "section | Aggressive |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>5</span>"
+    ],
+    "tags": [
+      "aggressive",
+      "once per game"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Weapons Free!",
+    "icon": "reticule",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "fill | 2",
+      "text | This Ability may be activated during the Command Segment of a non-Disordered Squadron's Activation provided a member of the Squadron is within the Command Radius of the Commodore’s Model.",
+      "text | The Squadron may elect to re-roll ALL of the INITIAL Attack Dice from an Attack using Secondary Weaponry. Only INITIAL Dice are re-rolled and the second result MUST be accepted.",
+      "fill | 2",
+      "section | Aggressive |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>6</span>"
+    ],
+    "tags": [
+      "aggressive",
+      "once per game"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Requisitioned for [...]",
+    "icon": "shield",
+    "icon_back": "",
+    "contents": [
+      "property | Requisitioned for my Personal Transport |",
+      "subtitle | Persistent",
+      "fill | 2",
+      "text | The Commodore has stripped the Force bare of essential equipment and supplies. All successful Repair Rolls in the Force suffer a -1 to their result.",
+      "fill | 2",
+      "section | Defensive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>1</span>"
+    ],
+    "tags": [
+      "defensive",
+      "opersistent"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Perfect Reconnaissance",
+    "icon": "shield",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "fill | 2",
+      "text | One Squadron within the Command Radius of the Commodore’s Model may re-roll any INITIAL failed Treacherous Terrain Test.",
+      "fill | 2",
+      "section | Defensive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>2</span>"
+    ],
+    "tags": [
+      "defensive",
+      "once per game turn"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Pass the Tools",
+    "icon": "shield",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "fill | 2",
+      "text | One Model within Command Radius of the Commodore’s Model may re-roll a single failed Repair attempt.",
+      "fill | 2",
+      "section | Defensive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>3</span>"
+    ],
+    "tags": [
+      "defensive",
+      "once per game turn"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Local Air Support",
+    "icon": "shield",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Persistent",
+      "fill | 2",
+      "text | The Commodore demands additional support from local airfelds. Increase the number of Local Air Support Squadrons available to the force by +1.",
+      "fill | 2",
+      "section | Defensive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>4</span>"
+    ],
+    "tags": [
+      "defensive",
+      "persistent"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Jury Rigger",
+    "icon": "shield",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Persistent",
+      "fill | 2",
+      "text | This Ability may be activated at the beginning of the Compulsory Actions Segment of the End Phase. ",
+      "text | The Commodore's Model can automatically remove a single Critical Effect Markers or Persistent Effect Markers affecting it. Roll a D6 for each Marker removed by the Ability. For each roll of a 6, the vessel loses one Hull Point (HP).",
+      "fill | 2",
+      "section | Defensive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>5</span>"
+    ],
+    "tags": [
+      "defensive",
+      "persistent"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "DimGray",
+    "title": "Battle Drilled Ack Ack",
+    "icon": "shield",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "fill | 2",
+      "text | This Ability may be activated during the Command Segment of a Squadron's Activation provided a member of the Squadron is within Command Radius of the Commodore’s Model. ",
+      "text | Until the End Phase of the current Game Turn, the Squadron may elect to re-roll ALL the INITIAL Attack Dice in any SINGLE Attack, Counter Attack, or Anti-Boarding Fire roll using Ack Ack (AA). INITIAL Dice are re-rolled and the second result MUST be accepted.",
+      "fill | 2",
+      "section | Defensive Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>6</span>"
+    ],
+    "tags": [
+      "defensive",
+      "once per game turn"
+    ],
+    "title_size": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Masters of Technology",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Replaces a rolled Command Trait | ",
+      "fill | 2 ",
+      "text | <span style='font-size: .8em'>This Ability may be activated at any time during a Squadron’s activation provided a member of the Squadron is within Command Radius of a Commodore’s Model. It may apply ONE of the following eﬀects: </span>",
+      "bullet | <span style='font-size: .8em'>An initial dice roll of a Generator may be modifed by +/-1. This may allow a Die to move from a 5 to a 6.</span>",
+      "bullet | <span style='font-size: .8em'>The XD6 for an energy blast may be re-rolled.</span>",
+      "bullet | <span style='font-size: .8em'>An immediate repair attempt may be made on ONE critical eﬀect marker on the activating squadron.</span>",
+      "fill | 2",
+      "section | National Trait",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Covenant of Antarctica</span>"
+    ],
+    "tags": [
+      "defensive",
+      "once per game turn"
+    ],
+    "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Shadow Tactics",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "fill | 2",
+      "text | Tis ability may be activated during the Command Segment of a Commodores Activation.",
+      "fill | 1",
+      "text | No Tactical Action Cards or Commodore abilities played by either side may be used on an Squadron with at least one model within Command radius of the Commodores Model (including the Commodore himself!)",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Empire of the Blazing Sun</span>"
+    ],
+    "tags": [
+      "defensive",
+      "once per game"
+    ],
+    "title_size": "",
+    "background_image": ""
+  }
+]
