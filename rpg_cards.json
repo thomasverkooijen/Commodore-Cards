@@ -73,10 +73,10 @@
     "contents": [
       "subtitle | Persistent",
       "rule",
-      "description | Empire of the Blazing Sun | Empire of the Blazing Sun Commodores may always take the Coordinated Attack Command Trait instead of making a roll on the Command Trait table.",
+      "description | <span style='font-size: 8px'>Empire of the Blazing Sun </span>|  <span style='font-size: 8px'>Empire of the Blazing Sun Commodores may always take the Coordinated Attack Command Trait instead of making a roll on the Command Trait table.</span>",
       "rule",
       "fill | 2",
-      "text | This Ability may be activated during the Command and Control Step of the Command Segment in a Squadron’s Activation, provided a member of the Squadron is within Command Radius of the Commodore’s Model. The Squadron may ignore the restrictions for being Disordered when determining Firing Options with Targeted Gunnery or Boarding Actions.",
+      "text |  <span style='font-size: 8px'>This Ability may be activated during the Command and Control Step of the Command Segment in a Squadron’s Activation, provided a member of the Squadron is within Command Radius of the Commodore’s Model. The Squadron may ignore the restrictions for being Disordered when determining Firing Options with Targeted Gunnery or Boarding Actions.</span>",
       "fill | 2",
       "section | Command Trait |",
       "text | <span style='font-size: 1.5em; font-weight: bold'>4</span>"
@@ -363,9 +363,12 @@
     "icon_back": "",
     "contents": [
       "subtitle | Once per Game Turn",
+      "rule",
+      "description | <span style='font-size: 8px'>Republique of France </span>|  <span style='font-size: 8px'>Republique of France Commodores may always take the Coordinated Attack Defensive Trait instead of making a roll on the Defensive Trait table.</span>",
+      "rule",
       "fill | 2",
-      "text | This Ability may be activated during the Command Segment of a Squadron's Activation provided a member of the Squadron is within Command Radius of the Commodore’s Model. ",
-      "text | Until the End Phase of the current Game Turn, the Squadron may elect to re-roll ALL the INITIAL Attack Dice in any SINGLE Attack, Counter Attack, or Anti-Boarding Fire roll using Ack Ack (AA). INITIAL Dice are re-rolled and the second result MUST be accepted.",
+      "text | <span style='font-size: 8px'>This Ability may be activated during the Command Segment of a Squadron's Activation provided a member of the Squadron is within Command Radius of the Commodore’s Model. </span>",
+      "text | <span style='font-size: 8px'> Until the End Phase of the current Game Turn, the Squadron may elect to re-roll ALL the INITIAL Attack Dice in any SINGLE Attack, Counter Attack, or Anti-Boarding Fire roll using Ack Ack (AA). INITIAL Dice are re-rolled and the second result MUST be accepted.</span>",
       "fill | 2",
       "section | Defensive Trait |",
       "text | <span style='font-size: 1.5em; font-weight: bold'>6</span>"
@@ -384,7 +387,7 @@
     "icon_back": "",
     "contents": [
       "subtitle | Once per Game Turn",
-      "description | Replaces a rolled Command Trait | ",
+      "description | Replaces a generated Command Trait | ",
       "fill | 2 ",
       "text | <span style='font-size: .8em'>This Ability may be activated at any time during a Squadron’s activation provided a member of the Squadron is within Command Radius of a Commodore’s Model. It may apply ONE of the following eﬀects: </span>",
       "bullet | <span style='font-size: .8em'>An initial dice roll of a Generator may be modifed by +/-1. This may allow a Die to move from a 5 to a 6.</span>",
@@ -409,8 +412,9 @@
     "icon_back": "",
     "contents": [
       "subtitle | Once per Game",
+      "description | Replaces a generated Command Trait | ",
       "fill | 2",
-      "text | Tis ability may be activated during the Command Segment of a Commodores Activation.",
+      "text | This ability may be activated during the Command Segment of a Commodores Activation.",
       "fill | 1",
       "text | No Tactical Action Cards or Commodore abilities played by either side may be used on an Squadron with at least one model within Command radius of the Commodores Model (including the Commodore himself!)",
       "fill | 2",
@@ -422,6 +426,124 @@
       "once per game"
     ],
     "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Take Aim",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "description | Replaces a generated Aggressive Trait | ",
+      "fill | 2",
+      "text | This ability may be activated during the Command Segment of a Commodores Activation. From this point onwards, until the end of the current Game Turn, all Models in the FSA Force using the Sharpshooters Model Assigned Rule (MAR) kill a point of AP on a roll of 4, 5 or [RED] 6 rather than the 5 or 6 that would normally be the case.",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Federated States of America</span>"
+    ],
+    "tags": [
+      "defensive",
+      "once per game"
+    ],
+    "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "For Queen and Country",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Replaces a generated Command Trait | ",
+      "fill | 2",
+      "text | This ability may be activated during the Command and Control Step of the Command Segment in a Squadron’s Activation, provided a member of the Squadron is within Command Radius of the Commodores Model. Remove any Disorder Markers from the Activating Squadron.",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Kingdom of Britannia</span>"
+    ],
+    "tags": [],
+    "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Lightning Assault",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Replaces a generated Aggressive Trait | ",
+      "fill | 2",
+      "text | This ability may be activated during the Command and control step of the Command Segment in a Squadrons Activation, provided a member of the Squadron is within Command Radius of the Commodores Model. When initiating a Boarding Assault the Targets Models Anti-Boarding fre will hit on a 5 or (BLUE) 6.",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Prussian Empire</span>"
+    ],
+    "tags": [],
+    "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Wrath of the Gods Eye",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "description | Replaces a generated Aggressive Trait | ",
+      "fill | 2",
+      "text | This ability may be activated during the Command Segment of a non-Disordered Squadron’s Activation provided a member of the Squadron is within the Command Radius of the Commodore’s Model. All Energy Weapons within this Squadron double the number of Raging Fire Tokens they inﬂict on their targets as a result of their attack. (This Includes any Critical Table or Fuel Reserves Result! Such is the Wrath of the Sun God!).",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Republic of Egypt</span>"
+    ],
+    "tags": [],
+    "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Perfectly Planned Manoeuvres",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "description | Replaces a generated Command Trait | ",
+      "fill | 2",
+      "text | This ability may be activated during the Command and Control Step of the Commodores",
+      "Activation. All Models in the Force gain the Sharp Turn and Sturginium Boost Model Assigned Rules. Furthermore all models in the force may Re-roll Evasive Manoeuvre tests ONCE.",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Republique of France</span>"
+    ],
+    "tags": [],
+    "title_size": "10",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Sturginium Overload",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "description | Replaces a generated Aggressive Trait | ",
+      "fill | 2",
+      "text | This ability may be activated during the Command and Control Step of the Commodores Activation. All Models in the Russian Force attempting to use the Sturginium Boost Model Assigned Rule in the current Game Turn automatically count as passing their Sturginium Boost roll. All Models without the Sturginium Boost MAR gain +1” Movement for the duration of the Game Turn.",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Russian Coalition</span>"
+    ],
+    "tags": [],
+    "title_size": "10",
     "background_image": ""
   }
 ]
