@@ -545,5 +545,209 @@
     "tags": [],
     "title_size": "10",
     "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "One Careful Owner",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Persistent",
+      "description | Replaces a generated (competitive) Command Trait | ",
+      "text | <span style='font-size: 8px'>A Black Wolf ﬂeet may include a single Large model chosen from any non-Russian Coalition or non-Covenant of Antarctica Force list. This Model does not count as part of the Core Force or for minimum squadron requirements.",
+      "text | <span style='font-size: 8px'>The Model retains any MARs, Munitions etc. that were part of its Profile, except Crew Type becomes Elite, Support Aircraft Wings change to Black Wolf Fleet Support Aircraf Wings instead and the Model gains Strategic Value (50) Model Assigned Rule in addition to any other MARs, increasing the value by 50 if it already has Strategic Value!",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Black Wolf Mercenaries</span>"
+    ],
+    "tags": [],
+    "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Wrath of the Red Dragon",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Replaces a generated Aggressive Trait | ",
+      "text | This ability may be activated during the Command Segment of a Squadron that has at least one Model with Command Radius of the Commodore.",
+      "text | All Models in the Squadron consider their crew type to be Regular for duration of their Activation.",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Chinese Federation</span>"
+    ],
+    "tags": [],
+    "title_size": "12",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "The Best Money Can Buy",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Replaces a generated Aggressive Trait | ",
+      "text | <span style='font-size: 8px'>This ability may be activated during the Command Segment of a Squadron that has at least one Model with Command Radius of the Commodore.</span>",
+      "text | <span style='font-size: 8px'>This ability may be activated during the Command Segment of the Activation of any Squadron that has at least one Model in command range of the Commodores vessel. When the Squadron declares an Attack with any Primary Gunnery or Torpedo Ordnance, the Attack may chose to use ONE of the following Munitions Type: Corrosive, Incendiary, Piercing or Sturginium and apply their rules to the Attack.</span>",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>East India Merchant Company</span>"
+    ],
+    "tags": [],
+    "title_size": "12",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "All Hands Forward!",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "description | Replaces a generated Aggressive Trait |",
+      "fill | 2",
+      "text | <!span style='font-size: 11px'>This ability may be activated during the Command Segment of the Commodores Activation.</span>",
+      "fill | 1",
+      "text | <span style='font-size: 11px'>The Commodores Model gains the Long Range Assault Model Assigned Rule for the remainder of the Activation.</span>",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Indian Raj</span>"
+    ],
+    "tags": [],
+    "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Combat Turn",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Replaces a generated Aggressive Trait |",
+      "fill | 2",
+      "text | <!span style='font-size: 11px'>This ability may be activated during the Command Segment of a Squadron that has at least one Model with Command Radius of the Commodore. </span>",
+      "fill | 1",
+      "text | <span style='font-size: 11px'>All Models in the Squadron that usually use the Large Turning Template may use the Medium Turning Template. All Models in the Squadron that usually use the Medium Turning Template may use the Small Turning Template.</span>",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Kingdom of Denmark</span>"
+    ],
+    "tags": [],
+    "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Power to the Shields!",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Replaces a generated Defensive Trait |",
+      "fill | 2",
+      "text | <!span style='font-size: 11px'>This ability may be activated when the Commodores Model is declared the target of an Attack. </span>",
+      "fill | 1",
+      "text | <span style='font-size: 11px'>The Commodores Model may increase the value of its shield generator by 1 during the Defensive Actions Step</span>",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>League of Italian States</span>"
+    ],
+    "tags": [],
+    "title_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Advanced Alchemical Defenses",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Persistent",
+      "description | Replaces a generated Defensive Trait |",
+      "fill | 2",
+      "text | <span style='font-size: 11px'>Capital Models in this ﬂeet reduce the number of AP lost due to Hard Pounding Critical Hit Results by one and do not lose AP due to the Lethal Strike or Concussion Munitions Types.</span>",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Ottoman Empire Separatists</span>"
+    ],
+    "tags": [],
+    "title_size": "10",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Advanced Alchemical Munitions",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Replaces a generated Defensive Trait |",
+      "fill | 2",
+      "text | <span style='font-size: 10px'> This ability may be activated during the Command Segment of a Squadrons Activation provided a member of the Squadron is within Command Radius of the Commodores Model. </span>",
+      "fill | 1",
+      "text | <span style='font-size: 10px'>When resolving attacks with weapons with the Corrosive Munitions type models in the Squadron apply 1 Corrosion Marker if they exceed the DR of the target and 2 Corrosion Markers if they exceed the CR of the target.</span>",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Ottoman Empire Traditionalists</span>"
+    ],
+    "tags": [],
+    "title_size": "10",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "With Fire and Sword",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game Turn",
+      "description | Replaces a generated Aggressive Trait |",
+      "fill | 2",
+      "text | <span style='font-size: 10px'>This ability may be activated during the Boarding Action Segment of any non-disordered squadron with a member within 16” of the Commodore’s Model. </span>",
+      "fill | 1",
+      "text | <span style='font-size: 10px'>This squadron gains Terror Tactics (+1) for the duration of the Boarding Segment for every 2 raging fire tokens on the target model to a maximum of Terror Tactics (3).</span>",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Polish-Lithuanian Commonwealth</span>"
+    ],
+    "tags": [],
+    "title_size": "10",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "color": "",
+    "title": "Forced Compliance",
+    "icon": "flying-flag",
+    "icon_back": "",
+    "contents": [
+      "subtitle | Once per Game",
+      "description | Replaces a generated Aggressive Trait |",
+      "fill | 2",
+      "text | <span style='font-size: 8px'>If a single Capital enemy Model is Prized by Australian troops the Australian player may Assume Command of the enemy Model instead of Prizing it. If he does so the Model IMMEDIATELY gains an Activation Marker if it does not already have one.</span>",
+      "fill | 1",
+      "text | <span style='font-size: 8px'> The Australian player does not gain the VPs for Prizing and instead the Model is considered to be Lost as a Derelict, suﬀering HP loss in the End Phase as normal!",
+      "fill | 1",
+      "text | <span style='font-size: 8px'> The Model becomes part of the Australian Force for all intents and purposes. It may not perform any Carrier Actions.</span>",
+      "fill | 2",
+      "section | National Trait |",
+      "text | <span style='font-size: 1.5em; font-weight: bold'>Royal and Free Australians</span>"
+    ],
+    "tags": [],
+    "title_size": "",
+    "background_image": ""
   }
 ]
